@@ -1,0 +1,23 @@
+{
+  "name": "create-react-component",
+  "main": "./lib/create-react-component",
+  "version": "0.0.0",
+  "description": "An Atom package for creating templated React components.",
+  "author": "Lucas Chen",
+  "repository": "https://github.com/parkroolucas/create-react-component",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "event-kit": "~2.5.0",
+    "fs-extra": "~7.0.0"
+  },
+  "consumedServices": {
+    "tree-view": {
+      "versions": {
+        "^1.0.0": "consumeTreeView"
+      }
+    }
+  }
+}

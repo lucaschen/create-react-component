@@ -1,0 +1,19 @@
+import %COMPONENT_NAME% from "./%COMPONENT_NAME%";
+
+export default %COMPONENT_NAME%;
+------------
+// @flow
+
+import React from 'react';
+
+import s from './%COMPONENT_NAME%.scss';
+
+const %COMPONENT_NAME% = () => {
+  return (
+    <div>
+      <h1>%COMPONENT_NAME%</h1>
+    </div>
+  );
+}
+
+export default %COMPONENT_NAME%;
