@@ -2,25 +2,9 @@
   "context-menu": {
     ".tree-view .full-menu": [
       {
-        "label": "Create a React component here",
+        "label": "Create a React Component Here",
         "command": "create-react-component:create-in-dir"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "create-react-component",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "create-react-component:create-in-dir"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
