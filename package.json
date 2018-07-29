@@ -1,7 +1,7 @@
 {
   "name": "create-react-component",
   "main": "./lib/create-react-component",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An Atom package for creating templated React components.",
   "author": "Lucas Chen",
   "repository": "https://github.com/parkroolucas/create-react-component",
