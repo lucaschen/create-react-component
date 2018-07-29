@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-panel[data-create-react-component]": {
     "escape": "create-react-component:close-create-in-dir-modal"
   }
 }
