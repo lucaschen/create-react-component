@@ -2,8 +2,6 @@ import %COMPONENT_NAME% from "./%COMPONENT_NAME%";
 
 export default %COMPONENT_NAME%;
 ------------
-// @flow
-
 import React from 'react';
 
 import s from './%COMPONENT_NAME%.scss';

@@ -2,13 +2,11 @@ import %COMPONENT_NAME% from "./%COMPONENT_NAME%";
 
 export default %COMPONENT_NAME%;
 ------------
-// @flow
-
 import React, { Component } from 'react';
 
 import s from './%COMPONENT_NAME%.scss';
 
-export default class %COMPONENT_NAME% extends Component<{}> {
+export default class %COMPONENT_NAME% extends Component {
   render() {
     return (
       <div>
